@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "strict": true,
+    "removeComments": false,
+    "noLib": false,
+    "target": "es6",
+    "sourceMap": false,
+    "baseUrl": "./",
+    "skipLibCheck": true
+  }
+}
