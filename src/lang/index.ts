@@ -22,7 +22,7 @@ export function isFunction(value?: any): boolean {
  * @returns true if the value is null or undefined
  */
 export function isNil(value?: any): value is null | undefined {
-  return typeof value == 'undefined' || value === null;
+  return typeof value === 'undefined' || value === null;
 }
 
 /**
@@ -104,5 +104,5 @@ export function isSymbol(value?: any): value is symbol {
  * @returns true if the value is undefined
  */
 export function isUndefined(value?: any): value is undefined {
-  return typeof value == 'undefined';
+  return typeof value === 'undefined';
 }
