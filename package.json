@@ -1,6 +1,6 @@
 {
   "name": "@hemjs/util",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utilities for arrays, objects, strings, and more",
   "author": "Augustus Kamau",
   "license": "MIT",
